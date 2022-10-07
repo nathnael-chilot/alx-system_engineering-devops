@@ -1,2 +1,2 @@
-#!bin/bash
-ls -map /root -d
+#!/bin/bash
+ls -map /sort -d
